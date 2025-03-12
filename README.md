@@ -29,7 +29,7 @@ Features:
 
 Installation & Configuration:
 	1.	Download the script and place it in your FiveM resources folder.
-	2.	Ensure dependencies are installed for proper integration with QBCore.
+	2.	Ensure dependencies are installed for proper integration with QBCore..
 	3.	Modify Config.lua to set your garage locations and preferences.
 	4.	Start the resource and enjoy your next-gen QBCore Garages system!
 
